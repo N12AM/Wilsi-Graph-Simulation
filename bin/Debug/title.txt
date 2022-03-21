@@ -1,0 +1,3 @@
+Predator-Prey Population Growth (Lotka-Volterra Model)
+Time-Step
+Predator-Red Vs prey-Blue

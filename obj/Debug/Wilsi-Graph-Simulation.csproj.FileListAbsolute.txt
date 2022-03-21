@@ -1,0 +1,7 @@
+D:\visual 2019\Wilsi-Graph-Simulation\bin\Debug\Wilsi-Graph-Simulation.exe.config
+D:\visual 2019\Wilsi-Graph-Simulation\bin\Debug\Wilsi-Graph-Simulation.exe
+D:\visual 2019\Wilsi-Graph-Simulation\bin\Debug\Wilsi-Graph-Simulation.pdb
+D:\visual 2019\Wilsi-Graph-Simulation\obj\Debug\Wilsi-Graph-Simulation.csproj.AssemblyReference.cache
+D:\visual 2019\Wilsi-Graph-Simulation\obj\Debug\Wilsi-Graph-Simulation.csproj.CoreCompileInputs.cache
+D:\visual 2019\Wilsi-Graph-Simulation\obj\Debug\Wilsi-Graph-Simulation.exe
+D:\visual 2019\Wilsi-Graph-Simulation\obj\Debug\Wilsi-Graph-Simulation.pdb
